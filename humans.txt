@@ -13,3 +13,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+# THANKS
+    To all who have loved me.
